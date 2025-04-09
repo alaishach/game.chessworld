@@ -1,2 +1,2 @@
-# chessworld.game
+# game.chessworld
 Chess World Game
